@@ -4,7 +4,7 @@ import "../style.css";
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <span className="blogtitle"> my travel journal</span>
+      <p className="blogtitle"> my travel journal</p>
     </nav>
   );
 }
